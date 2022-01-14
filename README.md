@@ -20,6 +20,5 @@ Before using this program, you will need several files below:
 2. MCPX ROM file
 3. Xbox HDD image file
 
-Please note that these files are not provided on this site here so you will need either dump it from your own console or try to use your head to find these stuffs online.
 
 For game discs, you will need to dump it from your own console via FTP transfer or using specialized DVD-ROM drive as all Xbox Game Discs are using non-standard DVD format which the game contents are unreadable by most DVD-ROM drives. Refer to this page here on how to obtain these thing: https://xemu.app/docs/disc-images/
