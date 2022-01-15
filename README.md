@@ -3,6 +3,8 @@ An unofficial AppImage package for Xemu Original Xbox Emulator
 
 Note that this software is still in beta stage, so expect more and more hiccups. To send bug reports regarding Xemu program, please go to this github site here instead: https://github.com/mborgerson/xemu
 
+To obtain the latest appimage release, please go to this link here: https://github.com/amirzaim/xemu-appimage/releases
+
 ==============================================================
 
 <b>System Requirements</b>
