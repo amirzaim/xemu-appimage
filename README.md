@@ -23,3 +23,5 @@ Before using this program, you will need several files below:
 3. Xbox HDD image file
 
 For game discs, you will need to dump it from your own console via FTP transfer or using specialized DVD-ROM drive as all Xbox Game Discs are using non-standard DVD format which the game contents are unreadable by most DVD-ROM drives. Refer to this page here on how to obtain these thing: https://xemu.app/docs/disc-images/
+
+As update of today, I am decided to pause this project for a while, will change this repo to read-only though. 
